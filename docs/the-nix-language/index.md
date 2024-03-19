@@ -15,7 +15,7 @@ introduction to the Nix language:
    This tutorial provides a comprehensive overview of the basics of the Nix language,
    recommended for beginners.
 1. [**A tour of Nix**](https://nixcloud.io/tour/?id=introduction/nix): An online
-   interactive tutorial focuses on programming language constructs and how Nix can be
+   interactive tutorial that focuses on programming language constructs and how Nix can be
    algorithmically used to solve problems.
 1. [**Nix Language - Nix Reference Manual**](https://nixos.org/manual/nix/stable/language/):
    The official documentation of the Nix language.
